@@ -1,2 +1,2 @@
 # cdn
-jsDelivr Cdn
+服务于个人博客的简易图床
